@@ -1,6 +1,6 @@
 <h1 align="center">Govind-Store-Annual-Report-2022 - Power Bi Interactive Dashboard</h1>
 
-**Design & Developed Tableau Dashboard for Govind Store Annual Report of 2022 to Gain Insights to Grow More Sales.** 
+**Design & Developed Power Bi Dashboard for Govind Store Annual Report of 2022 to Gain Insights to Grow More Sales.** 
 
 Dataset used from YouTube, refer: <code>[YouTube Dataset](https://docs.google.com/spreadsheets/d/1N_Aa45UnkPmnwGqNr6oTzvUhb5TKlitM/edit#gid=1081836936)</code> :hourglass:
 
